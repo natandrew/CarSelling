@@ -1,0 +1,13 @@
+
+]squid:UselessImportCheck"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8ïÕ¼Ëê-
+nsquid:UselessImportCheck"CRemove this unused import 'com.myapp.RepsoitoryImpl.CarRepository'.(Õâ˜8ïÕ¼Ëê-
+Zsquid:S1854W"7Remove this useless assignment to local variable "car".(ˆ®óıÿÿÿÿ8ïÕ¼Ëê-
+Ksquid:S1481W"(Remove this unused "car" local variable.(ˆ®óıÿÿÿÿ8ïÕ¼Ëê-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ÿï²8ïÕ¼Ëê-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ê•®Öÿÿÿÿÿ8ïÕ¼Ëê-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‹ºæãüÿÿÿÿ8ïÕ¼Ëê-
+isquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(á°äÁ8ïÕ¼Ëê-
+nsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(’Ê¹ºúÿÿÿÿ8ïÕ¼Ëê-
+nsquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(æØ´øÿÿÿÿ8ïÕ¼Ëê-
+nsquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(óìƒûøÿÿÿÿ8ïÕ¼Ëê-
+isquid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(†ıÚ±8ïÕ¼Ëê-
